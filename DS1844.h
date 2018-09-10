@@ -7,7 +7,7 @@
 #ifndef DS1844_h
 #define DS1844_h
 #include "Arduino.h"
-#include <Wiring.h>
+#include <wiring_private.h>
 
 class DS1844
 {
